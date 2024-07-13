@@ -15,7 +15,7 @@ Currently integrating knowledge in React, deepening usability testing techniques
 
 ## 📫 How to reach me
 
- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/f-orochena2609)
- - [Correo Electrónico](mailto:flory26991@gmail.com)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/f-orochena2609)
+- **Email**: [Email](mailto:flory26991@gmail.com)
 
 Let's connect!
