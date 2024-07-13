@@ -15,6 +15,6 @@ Currently integrating knowledge in React, deepening usability testing techniques
 
 
 📫 How to reach me
-[LinkedIn](www.linkedin.com/in/f-orochena2609) 
+ **LinkedIn**: [LinkedIn](https:www.linkedin.com/in/f-orochena2609)
 
 Let's connect!
