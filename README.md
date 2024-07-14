@@ -19,19 +19,15 @@ Currently integrating knowledge in React, deepening usability testing techniques
 
 ## 📫 How to reach me
 
-  <a href="https://www.linkedin.com/in/f-orochena2609" target="_blank" rel="noopener noreferrer">
-  <img title="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/f-orochena2609" target="_blank" rel="noopener noreferrer">
+<img title="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="flory26991@gmail.com">Enviar correo</a>
-  <img title="email" src="https://img.shields.io/badge/just%20the%20message-8A2BE" />
-</a>
+<a href="flory26991@gmail.com">
+<img title="email" src="https://img.shields.io/badge/just%20the%20message-8A2BE" /> </a>
 
 <a href="###" target="_blank" rel="noopener noreferrer">
 <img title="portfolio" src="" />
- </a>
+</a>
 
-<p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=florangel26&show_icons=true&locale=en&theme=tokyonight" alt="florangel26" />
-  </p>
 
 Let's connect!
