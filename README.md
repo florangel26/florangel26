@@ -1,7 +1,7 @@
-# Hi, I'm Florangel Orochena! 👩🏻‍💻
+<h1 align="center"> 👩🏻‍💻 Hi, I'm Florangel Orochena! 💻</h1>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=2EC227&center=true&vCenter=true&width=435&lines=FrontEnd+Developer;UX+/+UI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=2EC227&center=true&vCenter=true&width=435&lines=FrontEnd+Developer;UX+/+UI+Designer" alt="Typing SVG" /></a>
 </h1>
 
 Frontend developer specialized in UX/UI with over 2 years of experience designing intuitive and visually appealing interfaces. I successfully improved user experience by 30% in my last project through usability testing and continuous design optimization. Expert in HTML, CSS, JavaScript, and Vue integrating React, with experience in Agile methodologies, usability, and tools such as Figma and Atomic Design. Passionate about collaborating with multidisciplinary teams to create innovative and cutting-edge solutions.
@@ -19,7 +19,20 @@ Currently integrating knowledge in React, deepening usability testing techniques
 
 ## 📫 How to reach me
 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/f-orochena2609)
-- **Email**: [Email](mailto:flory26991@gmail.com)
+  <a href="https:/www.linkedin.com/in/f-orochena2609" target="_blank" rel="noopener noreferrer">
+  <img title="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+<a href="[Email](mailto:flory26991@gmail.com)" target="_blank" rel="noopener noreferrer">
+  <img title="email" src="https://img.shields.io/badge/just%20the%20message-8A2BE" />
+</a>
+
+ <a href="###" target="_blank" rel="noopener noreferrer">
+<img title="portfolio" src="" />
+ </a>
+
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuroz00&show_icons=true&locale=en&theme=tokyonight" alt="kuroz00" />
+  </p>
 
 Let's connect!
