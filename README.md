@@ -12,9 +12,10 @@ Currently integrating knowledge in React, deepening usability testing techniques
 
 ## 🛠 Skills
 
-- **Languages**: JavaScript, Python
-- **Frameworks**: VueJS, React, bootstrap, node.js, tailwind
-- **Tools**:Figma, Docker, Git
+- **Languages**: JavaScript (ES6+), TypeScript, HTML, CSS
+- **Frontend Frameworks and Libraries**: VueJS, bootstrap, Tailwind CSS, Material Design
+- **Backend Frameworks & Libraries**:Node.js,Firebase
+- **Tools & Platforms**:Figma, Docker, Git, Webpack, Illustrator
 
 
 ## 📫 How to reach me
