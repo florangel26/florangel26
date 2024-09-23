@@ -13,8 +13,8 @@ Currently integrating knowledge in React, deepening usability testing techniques
 ## 🛠 Skills
 
 - **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frontend Frameworks and Libraries**: VueJS, bootstrap, Tailwind CSS, Material Design
-- **Backend Frameworks & Libraries**:Node.js,Firebase
+- **Frontend Frameworks and Libraries**: VueJS, React, Bootstrap, Tailwind CSS, Material Design
+- **Backend Frameworks & Libraries**:Node.js, Mongo DB,Firebase
 - **Tools & Platforms**:Figma, Docker, Git, Webpack, Illustrator
 
 
